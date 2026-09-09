@@ -1,4 +1,4 @@
-# "Recurrent Deep Sets: Predicting Weekly Gasoline Demand from Traffic Congestion"
+# Recurrent Deep Sets: Predicting Weekly Gasoline Demand from Traffic Congestion
 
 **Abstract:** I adapt and extend the Deep Sets architecture introduced by Zaheer et al. (2017) to
 learn embeddings for set-structured elements in a high-frequency time-series on
